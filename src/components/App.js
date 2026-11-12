@@ -12,7 +12,7 @@ function App() {
   }, [markdown]);
 
   return (
-    <div className="markdown-editor">
+    <div className="App">
 
       <h1>Markdown Editor</h1>
 
